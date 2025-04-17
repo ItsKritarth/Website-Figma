@@ -8,7 +8,6 @@ body{
 }
 .navbar {
   background: black;
-  color: white;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -22,11 +21,11 @@ body{
 }
 .nav-item a{
     background: black;
-    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     text-decoration: none;
+    color: #fff;
 }
 .sidebar{
     border:2px solid black;
@@ -39,23 +38,19 @@ body{
 .products{
     width: 302px;
     height: 51.43px;
-    color: #ffffff;
     font-weight: 800;
 }
 .discounts{
-    color: #ffffff;
     width: 302px;
     height: 51.43px;
     font-weight: 800;
 }
 .partners{
-    color: #ffffff;
     width: 302px;
     height: 51.43px;
     font-weight: 800;
 }
 .abt{
-    color: #ffffff;
     width: 302px;
     height: 51.43px;
     font-weight: 800;
@@ -81,7 +76,6 @@ body{
     padding-top: 16px;
     line-height: 100%;
     letter-spacing: 5px;
-    color: #ffffff;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .main{
@@ -94,7 +88,6 @@ body{
     padding-bottom: 50px;
 }
 .card1{
-    color: white;
     width: 293px;
     height: 440;
     padding-left: 150px;
@@ -133,7 +126,6 @@ body{
     letter-spacing: 12%;
 }
 .card2{
-    color: white;
     width: 293px;
     height: 440;
     padding-left: 150px;
@@ -221,7 +213,6 @@ body{
     letter-spacing: 10%;
     width: 635px;
     height: 35px;
-    color: #ffffff;
     padding-left: 47%;
     padding-top: 4px;
 }
